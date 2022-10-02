@@ -4,8 +4,8 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.cwf.web.cicd</groupId>
-  <artifactId>cwf_web_cicd</artifactId>
+  <groupId>com.cwf2</groupId>
+  <artifactId>web_cicd</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
   <name>maven</name>
